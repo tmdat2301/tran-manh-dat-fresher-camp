@@ -1,1 +1,0 @@
-Should not contain the uploaded file right inside the service, but should use Cloud because: The system needs to be flexible, storing images in the system makes the system heavy and consumes resources. High security, easy to manage. Helps photos work on multiple systems. Do not include image binary in the DB by: Make DB heavy, waste resources and take time to retrieve
